@@ -1,6 +1,12 @@
 # using_concat
 # This method takes in two parameters of two different arrays and uses the .concat method to add the contents of the second array to the first.
 
+def using_concat(array)
+  
+  array.concat
+
+end
+
 # using_insert
 # This method takes in two parameters, an Array and a new element to be added to the array. it uses the .insert method to add the new element to the 4th index of the array.
 
