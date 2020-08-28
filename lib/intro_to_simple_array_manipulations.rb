@@ -10,13 +10,16 @@ end
 # using_insert
 # This method takes in two parameters, an Array and a new element to be added to the array. it uses the .insert method to add the new element to the 4th index of the array.
 
-def
+def using_insert(array, element)
+  
+  array.insert(element)
+  
 end
 
 # using_uniq
 # This method takes in a parameter of an Array and uses the .uniq method to remove any duplicate items.
 
-def using_insert
+def using_uniq
 end
 
 # using_flatten
