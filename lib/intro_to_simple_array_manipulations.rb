@@ -19,7 +19,10 @@ end
 # using_uniq
 # This method takes in a parameter of an Array and uses the .uniq method to remove any duplicate items.
 
-def using_uniq
+def using_uniq(array)
+  
+  
+  
 end
 
 # using_flatten
